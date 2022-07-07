@@ -1,0 +1,56 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="de.bonify.reactnativematomo.test" >
+4
+5    <uses-sdk
+5-->/home/clement/Documents/numericite/workspace/tumeplay/new/Tumeplay/tumeplayMobile/node_modules/react-native-matomo/android/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2476637489450094316.xml:5:5-74
+6        android:minSdkVersion="21"
+6-->/home/clement/Documents/numericite/workspace/tumeplay/new/Tumeplay/tumeplayMobile/node_modules/react-native-matomo/android/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2476637489450094316.xml:5:15-41
+7        android:targetSdkVersion="30" />
+7-->/home/clement/Documents/numericite/workspace/tumeplay/new/Tumeplay/tumeplayMobile/node_modules/react-native-matomo/android/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2476637489450094316.xml:5:42-71
+8
+9    <instrumentation
+9-->/home/clement/Documents/numericite/workspace/tumeplay/new/Tumeplay/tumeplayMobile/node_modules/react-native-matomo/android/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2476637489450094316.xml:11:5-15:82
+10        android:name="android.test.InstrumentationTestRunner"
+10-->/home/clement/Documents/numericite/workspace/tumeplay/new/Tumeplay/tumeplayMobile/node_modules/react-native-matomo/android/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2476637489450094316.xml:11:22-75
+11        android:functionalTest="false"
+11-->/home/clement/Documents/numericite/workspace/tumeplay/new/Tumeplay/tumeplayMobile/node_modules/react-native-matomo/android/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2476637489450094316.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/home/clement/Documents/numericite/workspace/tumeplay/new/Tumeplay/tumeplayMobile/node_modules/react-native-matomo/android/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2476637489450094316.xml:13:22-53
+13        android:label="Tests for de.bonify.reactnativematomo.test"
+13-->/home/clement/Documents/numericite/workspace/tumeplay/new/Tumeplay/tumeplayMobile/node_modules/react-native-matomo/android/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2476637489450094316.xml:15:22-80
+14        android:targetPackage="de.bonify.reactnativematomo.test" />
+14-->/home/clement/Documents/numericite/workspace/tumeplay/new/Tumeplay/tumeplayMobile/node_modules/react-native-matomo/android/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2476637489450094316.xml:12:22-78
+15
+16    <uses-permission android:name="android.permission.INTERNET" />
+16-->[org.matomo.sdk:tracker:4.0.1] /home/clement/.gradle/caches/transforms-3/198f4c6c379a1f1dfefb070bafa46861/transformed/jetified-tracker-4.0.1/AndroidManifest.xml:12:5-67
+16-->[org.matomo.sdk:tracker:4.0.1] /home/clement/.gradle/caches/transforms-3/198f4c6c379a1f1dfefb070bafa46861/transformed/jetified-tracker-4.0.1/AndroidManifest.xml:12:22-64
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->[org.matomo.sdk:tracker:4.0.1] /home/clement/.gradle/caches/transforms-3/198f4c6c379a1f1dfefb070bafa46861/transformed/jetified-tracker-4.0.1/AndroidManifest.xml:13:5-79
+17-->[org.matomo.sdk:tracker:4.0.1] /home/clement/.gradle/caches/transforms-3/198f4c6c379a1f1dfefb070bafa46861/transformed/jetified-tracker-4.0.1/AndroidManifest.xml:13:22-76
+18
+19    <application
+19-->/home/clement/Documents/numericite/workspace/tumeplay/new/Tumeplay/tumeplayMobile/node_modules/react-native-matomo/android/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2476637489450094316.xml:7:5-9:19
+20        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+20-->[androidx.core:core:1.1.0] /home/clement/.gradle/caches/transforms-3/94c4745ecd6aa2bded7c344d03d4593c/transformed/core-1.1.0/AndroidManifest.xml:24:18-86
+21        android:debuggable="true" >
+22        <uses-library android:name="android.test.runner" />
+22-->/home/clement/Documents/numericite/workspace/tumeplay/new/Tumeplay/tumeplayMobile/node_modules/react-native-matomo/android/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2476637489450094316.xml:8:9-60
+22-->/home/clement/Documents/numericite/workspace/tumeplay/new/Tumeplay/tumeplayMobile/node_modules/react-native-matomo/android/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2476637489450094316.xml:8:23-57
+23        <!-- Suppress warning about unrestricted access to this receiver this is need to check which app store installed the app -->
+24        <receiver
+24-->[org.matomo.sdk:tracker:4.0.1] /home/clement/.gradle/caches/transforms-3/198f4c6c379a1f1dfefb070bafa46861/transformed/jetified-tracker-4.0.1/AndroidManifest.xml:18:9-25:20
+25            android:name="org.matomo.sdk.extra.InstallReferrerReceiver"
+25-->[org.matomo.sdk:tracker:4.0.1] /home/clement/.gradle/caches/transforms-3/198f4c6c379a1f1dfefb070bafa46861/transformed/jetified-tracker-4.0.1/AndroidManifest.xml:19:13-72
+26            android:exported="true" >
+26-->[org.matomo.sdk:tracker:4.0.1] /home/clement/.gradle/caches/transforms-3/198f4c6c379a1f1dfefb070bafa46861/transformed/jetified-tracker-4.0.1/AndroidManifest.xml:20:13-36
+27            <intent-filter>
+27-->[org.matomo.sdk:tracker:4.0.1] /home/clement/.gradle/caches/transforms-3/198f4c6c379a1f1dfefb070bafa46861/transformed/jetified-tracker-4.0.1/AndroidManifest.xml:22:13-24:29
+28                <action android:name="com.android.vending.INSTALL_REFERRER" />
+28-->[org.matomo.sdk:tracker:4.0.1] /home/clement/.gradle/caches/transforms-3/198f4c6c379a1f1dfefb070bafa46861/transformed/jetified-tracker-4.0.1/AndroidManifest.xml:23:17-79
+28-->[org.matomo.sdk:tracker:4.0.1] /home/clement/.gradle/caches/transforms-3/198f4c6c379a1f1dfefb070bafa46861/transformed/jetified-tracker-4.0.1/AndroidManifest.xml:23:25-76
+29            </intent-filter>
+30        </receiver>
+31    </application>
+32
+33</manifest>

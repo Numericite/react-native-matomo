@@ -1,0 +1,55 @@
+{
+  "_args": [
+    [
+      "react-native-matomo@git+https://github.com/vivantehealth/react-native-matomo.git#master",
+      "/home/clement/Documents/numericite/workspace/tumeplay/new/Tumeplay/tumeplayMobile"
+    ]
+  ],
+  "_development": true,
+  "_from": "react-native-matomo@https://github.com/vivantehealth/react-native-matomo#master",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-matomo",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "react-native-matomo@https://github.com/vivantehealth/react-native-matomo#master",
+    "name": "react-native-matomo",
+    "escapedName": "react-native-matomo",
+    "rawSpec": "https://github.com/vivantehealth/react-native-matomo#master",
+    "saveSpec": "git+https://github.com/vivantehealth/react-native-matomo.git#master",
+    "fetchSpec": "https://github.com/vivantehealth/react-native-matomo.git",
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "git+ssh://git@github.com/vivantehealth/react-native-matomo.git#d649a7ea909857fff0ebd15509f4dc8363edb84e",
+  "_spec": "https://github.com/vivantehealth/react-native-matomo#master",
+  "_where": "/home/clement/Documents/numericite/workspace/tumeplay/new/Tumeplay/tumeplayMobile",
+  "author": "Bonify",
+  "bugs": {
+    "url": "https://github.com/BonifyByForteil/react-native-matomo/issues"
+  },
+  "description": "React Native adapter for Matomo native SDKs",
+  "homepage": "https://github.com/BonifyByForteil/react-native-matomo#readme",
+  "keywords": [
+    "react-native",
+    "matomo",
+    "piwik",
+    "android",
+    "ios",
+    "mobile"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-matomo-fork",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BonifyByForteil/react-native-matomo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.2.1"
+}

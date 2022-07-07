@@ -1,0 +1,13 @@
+#Wed Apr 20 10:11:28 CEST 2022
+path.3=12/classes.dex
+path.2=0/classes.dex
+path.1=0/classes.dex
+path.0=classes.dex
+base.3=/home/clement/Documents/numericite/workspace/tumeplay/new/Tumeplay/tumeplayMobile/node_modules/react-native-matomo/android/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/12/classes.dex
+base.2=/home/clement/Documents/numericite/workspace/tumeplay/new/Tumeplay/tumeplayMobile/node_modules/react-native-matomo/android/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+base.1=/home/clement/Documents/numericite/workspace/tumeplay/new/Tumeplay/tumeplayMobile/node_modules/react-native-matomo/android/build/intermediates/dex/debugAndroidTest/mergeLibDexDebugAndroidTest/0/classes.dex
+base.0=/home/clement/Documents/numericite/workspace/tumeplay/new/Tumeplay/tumeplayMobile/node_modules/react-native-matomo/android/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex

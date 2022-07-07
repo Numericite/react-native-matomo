@@ -1,0 +1,6 @@
+de/bonify/reactnativematomo/MatomoPackage.java
+ de.bonify.reactnativematomo.MatomoPackage
+de/bonify/reactnativematomo/BuildConfig.java
+ de.bonify.reactnativematomo.BuildConfig
+de/bonify/reactnativematomo/MatomoModule.java
+ de.bonify.reactnativematomo.MatomoModule

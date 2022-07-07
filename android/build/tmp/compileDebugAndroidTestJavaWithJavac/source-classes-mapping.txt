@@ -1,0 +1,2 @@
+de/bonify/reactnativematomo/test/BuildConfig.java
+ de.bonify.reactnativematomo.test.BuildConfig
