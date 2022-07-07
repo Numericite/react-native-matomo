@@ -1,31 +1,31 @@
 {
   "_args": [
     [
-      "react-native-matomo@git+https://github.com/vivantehealth/react-native-matomo.git#master",
+      "react-native-matomo@git+https://github.com/Numericite/react-native-matomo.git#main",
       "/home/clement/Documents/numericite/workspace/tumeplay/new/Tumeplay/tumeplayMobile"
     ]
   ],
   "_development": true,
-  "_from": "react-native-matomo@https://github.com/vivantehealth/react-native-matomo#master",
+  "_from": "react-native-matomo@https://github.com/Numericite/react-native-matomo#main",
   "_inBundle": false,
   "_integrity": "",
   "_location": "/react-native-matomo",
   "_phantomChildren": {},
   "_requested": {
     "type": "git",
-    "raw": "react-native-matomo@https://github.com/vivantehealth/react-native-matomo#master",
+    "raw": "react-native-matomo@https://github.com/Numericite/react-native-matomo#main",
     "name": "react-native-matomo",
     "escapedName": "react-native-matomo",
-    "rawSpec": "https://github.com/vivantehealth/react-native-matomo#master",
-    "saveSpec": "git+https://github.com/vivantehealth/react-native-matomo.git#master",
-    "fetchSpec": "https://github.com/vivantehealth/react-native-matomo.git",
+    "rawSpec": "https://github.com/Numericite/react-native-matomo#main",
+    "saveSpec": "git+https://github.com/Numericite/react-native-matomo.git#main",
+    "fetchSpec": "https://github.com/Numericite/react-native-matomo.git",
     "gitCommittish": "master"
   },
   "_requiredBy": [
     "#DEV:/"
   ],
-  "_resolved": "git+ssh://git@github.com/vivantehealth/react-native-matomo.git#d649a7ea909857fff0ebd15509f4dc8363edb84e",
-  "_spec": "https://github.com/vivantehealth/react-native-matomo#master",
+  "_resolved": "git+ssh://git@github.com/Numericite/react-native-matomo.git#d649a7ea909857fff0ebd15509f4dc8363edb84e",
+  "_spec": "https://github.com/Numericite/react-native-matomo#main",
   "_where": "/home/clement/Documents/numericite/workspace/tumeplay/new/Tumeplay/tumeplayMobile",
   "author": "Bonify",
   "bugs": {
